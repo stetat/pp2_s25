@@ -1,3 +1,5 @@
+#Data Types
+
 x = {"apple", "banana", "cherry"}
 
 #display x:
