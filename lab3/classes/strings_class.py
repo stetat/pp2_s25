@@ -3,10 +3,10 @@ class console:
         pass
 
     def getstring(self):
-        self.a = str(input("input string"))
+        self.a = str(input("input string: "))
 
     def printstring(self):
-        print(self.a)
+        print((self.a).upper())
 
         
 
